@@ -2,8 +2,7 @@
 
 Analyze your Git history with Google Gemini AI.
 
-Visualize coding habits, discover your "Dev Persona" (e.g., Midnight Sprinter), and get CTO-level advice on code quality and burnout prevention. Built with Streamlit & Python.
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://git-repo-ai-profiler-gjtbz72whwbjretxnkv25s.streamlit.app/))
 (Replace this link with your actual screenshot or GIF)
 
 🧐 What is this?
