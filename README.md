@@ -1,8 +1,8 @@
-🤖 Git Repository AI Profiler
+🤖 git-repo-ai-profiler
 
-"Not just a log analyzer. It's your AI Career Coach."
+Analyze your Git history with Google Gemini AI.
 
-Reveal your coding style, detect burnout risks, and get actionable advice from an AI CTO based on your Git history.
+Visualize coding habits, discover your "Dev Persona" (e.g., Midnight Sprinter), and get CTO-level advice on code quality and burnout prevention. Built with Streamlit & Python.
 
 (Replace this link with your actual screenshot or GIF)
 
@@ -42,8 +42,9 @@ Users can input their own API Key securely via the sidebar.
 
 1. Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/git-repo-ai-profiler.git](https://github.com/YOUR_USERNAME/git-repo-ai-profiler.git)
+git clone [https://github.com/EMMA019/git-repo-ai-profiler.git](https://github.com/EMMA019/git-repo-ai-profiler.git)
 cd git-repo-ai-profiler
+
 
 
 2. Set up the environment
@@ -60,9 +61,11 @@ python -m venv .venv
 source .venv/bin/activate
 
 
+
 3. Install dependencies
 
 pip install -r requirements.txt
+
 
 
 4. Get your API Key
@@ -72,6 +75,7 @@ You need a Google Gemini API Key. Get it from Google AI Studio.
 5. Run the App!
 
 streamlit run app.py
+
 
 
 🛠️ Tech Stack
