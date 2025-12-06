@@ -207,19 +207,19 @@ def run_analysis(repo_url, repo_path, progress_callback, api_key):
         progress_callback(90, "Calling AI for deep analysis (this may take a minute)...")
         logger.info("Calling AI profiler service...")
 
-        # Update prompt for better actionable advice
+        # Update prompt for better actionable advice (English Version)
         enhanced_prompt = f"""
         Based on the following Git repository analysis summary, please provide a "Development Style Diagnosis" and "Concrete Advice".
         
         Analysis Summary:
         {analysis_summary}
 
-        Please output in the following format (Japanese):
+        Please output in the following format (English):
         
-        ### 開発スタイルの総評：【(Catchy Title)】
+        ### Development Style Diagnosis: 【(Catchy Title)】
         (Description of the style based on data)
 
-        ### 改善のための実用的なアドバイス
+        ### Practical Advice for Improvement
         1. **[Point 1]**: [Actionable advice]
         2. **[Point 2]**: [Actionable advice]
         3. **[Point 3]**: [Actionable advice]
