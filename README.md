@@ -5,7 +5,14 @@ Analyze your Git history with Google Gemini AI.
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://git-repo-ai-profiler-gjtbz72whwbjretxnkv25s.streamlit.app/)
 <img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/cb4bd4c3-4e86-4d60-bc00-bcd5afa305f4" />
 
+🤖 Development Story
+This project was built by my proprietary AI Development Orchestration System.
 
+Powered by Gemini 2.5 Flash (free tier)
+Result: Production-ready full-stack app in 1 hour
+The system itself remains private for now, but this quantum simulator proves what it can do.
+
+Interested in the tech or potential collaboration? Reach out: [tarocha1019@icloud.com]
 🧐 What is this?
 
 Git Repository AI Profiler is a Streamlit application that mines your Git repository meta-data and uses Google Gemini 2.5 Flash to profile your development habits.
