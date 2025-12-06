@@ -3,6 +3,7 @@
 Analyze your Git history with Google Gemini AI.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://git-repo-ai-profiler-gjtbz72whwbjretxnkv25s.streamlit.app/)
+<img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/cb4bd4c3-4e86-4d60-bc00-bcd5afa305f4" />
 
 
 🧐 What is this?
