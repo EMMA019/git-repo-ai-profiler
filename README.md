@@ -2,8 +2,8 @@
 
 Analyze your Git history with Google Gemini AI.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://git-repo-ai-profiler-gjtbz72whwbjretxnkv25s.streamlit.app/))
-(Replace this link with your actual screenshot or GIF)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://git-repo-ai-profiler-gjtbz72whwbjretxnkv25s.streamlit.app/)
+
 
 🧐 What is this?
 
