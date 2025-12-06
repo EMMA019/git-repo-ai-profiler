@@ -1,0 +1,6 @@
+streamlit
+PyDriller
+plotly
+pandas
+google-generativeai
+tenacity
